@@ -5,7 +5,7 @@ This repository contains the **results and figures** corresponding to the paper:
 **Title**: *EPSILON: Adaptive Fault Mitigation in Approximate Deep Neural Network using Statistical Signatures*  
 **Authors**: Khurram Khalil, Khaza Anuarul Hoque  
 **Affiliation**: Department of Electrical Engineering and Computer Science, University of Missouri-Columbia, USA  
-**Contact**: {khurram.khalil, hoquek}@missouri.edu
+**Contact**: hoquek@missouri.edu
 
 ---
 
